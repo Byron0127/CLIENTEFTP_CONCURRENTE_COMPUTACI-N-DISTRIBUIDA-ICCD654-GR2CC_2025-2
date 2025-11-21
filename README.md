@@ -1,6 +1,6 @@
 # Cliente FTP Concurrente
 
-**Estudiante:** OrtizBy
+**Estudiante:** OrtizByron
 **Materia:** Computación Distribuida
 
 ## 📖 Descripción
